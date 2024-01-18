@@ -1,0 +1,4 @@
+[
+    {"leg_number": "A", "name": "Item A", "image_url": "https://example.com/image_A.jpg"},
+    {"leg_number": "B", "name": "Item B", "image_url": "https://example.com/image_B.jpg"}
+]

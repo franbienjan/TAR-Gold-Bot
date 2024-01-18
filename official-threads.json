@@ -1,0 +1,11 @@
+{
+  "lab" : {
+    "id" : 1065231788580012102,
+    "name" : "🦾lab-bot-ratory",
+    "description" : "Admin channel for bot testing."
+  },
+  "gold-03-tents" : {
+    "id" : 1170738186771763341,
+    "role" : 1074653254010552350
+  }
+}
